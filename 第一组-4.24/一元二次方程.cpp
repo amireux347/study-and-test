@@ -8,7 +8,7 @@ int main(void)
 	int a = 0;  //=不表示相等，表示赋值
 	int b = 0;
 	int c = 0;
-	double delta; //delt存放的是 b*b - 4*a*c
+	double delta; //delta存放的是 b*b - 4*a*c
 	double x1; //存放一元二次方程的其中一个解
 	double x2; //存放一元二次方程的其中一个解
 	printf("请输入一元二次方程的三个系数\n");
